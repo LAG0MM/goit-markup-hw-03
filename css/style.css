@@ -63,12 +63,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 40px;
     padding: 0 15px;
 }
-
 .header-section {
     height: 72px;
     border-bottom: 1px solid #E7E9FC;
+    display: flex;
 }
 
 .nav {
@@ -92,6 +93,7 @@ header {
 
 .contacts-list {
     display:  flex;
+    gap: 40px;
 }
 
 
